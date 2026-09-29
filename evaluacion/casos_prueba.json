@@ -1,0 +1,42 @@
+[
+  {
+    "id": "P1",
+    "ticket": "Al autenticarme, el sistema dice que mis credenciales son inválidas.",
+    "esperado": {
+      "estado": "clasificado",
+      "categoria": "acceso"
+    }
+  },
+  {
+    "id": "P2",
+    "ticket": "La renovación muestra un error 500 al procesar el pago.",
+    "esperado": {
+      "estado": "clasificado",
+      "categoria": "facturacion"
+    }
+  },
+  {
+    "id": "P3",
+    "ticket": "La exportación del reporte falla y el filtro por fecha tampoco responde.",
+    "esperado": {
+      "estado": "clasificado",
+      "categoria": "tecnico"
+    }
+  },
+  {
+    "id": "P4",
+    "ticket": "Necesito corregir un cobro duplicado y recuperar mi cuenta bloqueada.",
+    "esperado": {
+      "estado": "requiere_revision",
+      "categoria": null
+    }
+  },
+  {
+    "id": "P5",
+    "ticket": "¿Dónde puedo aprender a utilizar los filtros del reporte?",
+    "esperado": {
+      "estado": "requiere_revision",
+      "categoria": null
+    }
+  }
+]

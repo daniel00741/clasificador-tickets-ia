@@ -1,0 +1,58 @@
+[
+  {
+    "id": "T1",
+    "ticket": "Olvidé mi contraseña y necesito restablecerla.",
+    "esperado": {
+      "estado": "clasificado",
+      "categoria": "acceso"
+    }
+  },
+  {
+    "id": "T2",
+    "ticket": "La factura de septiembre incluye un servicio que no contraté.",
+    "esperado": {
+      "estado": "clasificado",
+      "categoria": "facturacion"
+    }
+  },
+  {
+    "id": "T3",
+    "ticket": "Puedo entrar, pero al descargar el reporte aparece un error 500.",
+    "esperado": {
+      "estado": "clasificado",
+      "categoria": "tecnico"
+    }
+  },
+  {
+    "id": "T4",
+    "ticket": "No puedo iniciar sesión y también veo un cobro duplicado.",
+    "esperado": {
+      "estado": "requiere_revision",
+      "categoria": null
+    }
+  },
+  {
+    "id": "T5",
+    "ticket": "¿Cómo cambio el idioma de la aplicación?",
+    "esperado": {
+      "estado": "requiere_revision",
+      "categoria": null
+    }
+  },
+  {
+    "id": "T6",
+    "ticket": "El pago falla cuando intento renovar mi suscripción.",
+    "esperado": {
+      "estado": "clasificado",
+      "categoria": "facturacion"
+    }
+  },
+  {
+    "id": "T7",
+    "ticket": "No funciona. Ayuda.",
+    "esperado": {
+      "estado": "requiere_revision",
+      "categoria": null
+    }
+  }
+]

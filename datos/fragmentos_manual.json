@@ -1,0 +1,30 @@
+[
+  {
+    "documento_id": "MANUAL-001",
+    "chunk_id": "MANUAL-001-01",
+    "titulo_documento": "Manual de soporte de la aplicación",
+    "seccion": "Restablecer una contraseña olvidada",
+    "contenido": "Si olvidaste tu contraseña, selecciona \"Olvidé mi contraseña\"\nen la pantalla de inicio de sesión.\n\nIntroduce el correo electrónico asociado a tu cuenta. Recibirás\nun enlace para establecer una contraseña nueva.\n\nSi no encuentras el correo, revisa la carpeta de spam.\nNunca compartas tu contraseña con soporte.\n\nEste manual no especifica cuánto tiempo permanece válido\nel enlace de restablecimiento."
+  },
+  {
+    "documento_id": "MANUAL-001",
+    "chunk_id": "MANUAL-001-02",
+    "titulo_documento": "Manual de soporte de la aplicación",
+    "seccion": "Cuenta bloqueada por intentos fallidos",
+    "contenido": "Después de cinco intentos fallidos de inicio de sesión,\nla cuenta se bloquea temporalmente durante quince minutos.\n\nEspera ese período antes de volver a intentarlo.\nSi olvidaste la contraseña, utiliza el procedimiento\nde restablecimiento.\n\nSi el bloqueo continúa después de ese período,\ncontacta con soporte.\n\nAl contactar con soporte, indica el mensaje de bloqueo que aparece."
+  },
+  {
+    "documento_id": "MANUAL-001",
+    "chunk_id": "MANUAL-001-03",
+    "titulo_documento": "Manual de soporte de la aplicación",
+    "seccion": "Revisar un posible cobro duplicado",
+    "contenido": "Si observas dos cargos por una misma suscripción,\ncomprueba si ambos están confirmados o si uno figura\ncomo pendiente.\n\nPara solicitar una revisión, proporciona a soporte\nlas fechas, los importes y las referencias de las transacciones.\n\nSoporte debe verificar los cargos antes de confirmar\nun reembolso.\n\nEste manual no especifica el plazo de recepción\nde un reembolso."
+  },
+  {
+    "documento_id": "MANUAL-001",
+    "chunk_id": "MANUAL-001-04",
+    "titulo_documento": "Manual de soporte de la aplicación",
+    "seccion": "Error al exportar un reporte",
+    "contenido": "Si falla la exportación de un reporte, intenta exportar\nun intervalo de fechas más pequeño.\n\nSi el error continúa, registra el nombre del reporte,\nel intervalo de fechas seleccionado y el mensaje de error.\n\nEnvía esa información a soporte para que investigue el fallo."
+  }
+]

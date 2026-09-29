@@ -1,0 +1,38 @@
+[
+  {
+    "id": "KB-001",
+    "titulo": "Restablecer una contraseña olvidada",
+    "categoria": "acceso",
+    "contenido": "Si el usuario olvidó su contraseña, debe seleccionar 'Olvidé mi contraseña' en la pantalla de inicio de sesión e introducir el correo asociado a su cuenta. Recibirá un enlace para establecer una nueva contraseña. Si el correo no aparece, debe revisar la carpeta de spam. Nunca debe compartir su contraseña con soporte."
+  },
+  {
+    "id": "KB-002",
+    "titulo": "Cuenta bloqueada por intentos fallidos",
+    "categoria": "acceso",
+    "contenido": "En esta aplicación, cinco intentos fallidos de inicio de sesión bloquean temporalmente la cuenta durante quince minutos. El usuario debe esperar ese período antes de volver a intentarlo. Si no recuerda la contraseña, debe utilizar el procedimiento de restablecimiento. Si el bloqueo continúa después de ese período, debe contactar con soporte."
+  },
+  {
+    "id": "KB-003",
+    "titulo": "Revisar un posible cobro duplicado",
+    "categoria": "facturacion",
+    "contenido": "Si el usuario observa dos cargos por una misma suscripción, debe comprobar si ambos están confirmados o si uno figura como pendiente. Para solicitar una revisión, debe proporcionar las fechas, los importes y las referencias de las transacciones. Soporte debe verificar los cargos antes de confirmar un reembolso."
+  },
+  {
+    "id": "KB-004",
+    "titulo": "Pago rechazado al renovar la suscripción",
+    "categoria": "facturacion",
+    "contenido": "Si el pago de renovación es rechazado, el usuario debe comprobar la fecha de vencimiento del medio de pago y si su entidad permite la operación. Puede intentar utilizar otro medio de pago. Si el problema persiste, debe informar a soporte del mensaje de error mostrado, sin enviar números completos de tarjeta ni códigos de seguridad."
+  },
+  {
+    "id": "KB-005",
+    "titulo": "Error al exportar un reporte",
+    "categoria": "tecnico",
+    "contenido": "Si la exportación de un reporte falla, el usuario debe intentar exportar un intervalo de fechas más pequeño. Si el error continúa, debe registrar el nombre del reporte, el intervalo seleccionado y el mensaje de error. Esa información debe enviarse a soporte para investigar el fallo."
+  },
+  {
+    "id": "KB-006",
+    "titulo": "Los filtros del reporte no actualizan los resultados",
+    "categoria": "tecnico",
+    "contenido": "Si los resultados de un reporte no cambian al aplicar filtros, el usuario debe comprobar que seleccionó valores válidos y pulsó 'Aplicar'. Después puede restablecer los filtros y realizar nuevamente la selección. Si el problema persiste, debe informar a soporte del reporte y de los filtros utilizados."
+  }
+]
